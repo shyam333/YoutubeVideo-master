@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/shyamramesh/Downloads/YoutubeVideo-master/app/build/intermediates/res/merged/debug/layout-land/fragments_demo.xml",
+        "source": "/Users/shyamramesh/Downloads/YoutubeVideo-master/app/src/main/res/layout-land/fragments_demo.xml"
+    },
+    {
+        "merged": "/Users/shyamramesh/Downloads/YoutubeVideo-master/app/build/intermediates/res/merged/debug/layout-land/playerview_demo.xml",
+        "source": "/Users/shyamramesh/Downloads/YoutubeVideo-master/app/src/main/res/layout-land/playerview_demo.xml"
+    },
+    {
+        "merged": "/Users/shyamramesh/Downloads/YoutubeVideo-master/C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragments_demo.xml",
+        "source": "/Users/shyamramesh/Downloads/YoutubeVideo-master/C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\src\\main\\res\\layout-land\\fragments_demo.xml"
+    },
+    {
+        "merged": "/Users/shyamramesh/Downloads/YoutubeVideo-master/app/build/intermediates/res/merged/debug/layout-land/player_controls_demo.xml",
+        "source": "/Users/shyamramesh/Downloads/YoutubeVideo-master/app/src/main/res/layout-land/player_controls_demo.xml"
+    },
+    {
+        "merged": "/Users/shyamramesh/Downloads/YoutubeVideo-master/C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\player_controls_demo.xml",
+        "source": "/Users/shyamramesh/Downloads/YoutubeVideo-master/C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\src\\main\\res\\layout-land\\player_controls_demo.xml"
+    },
+    {
+        "merged": "/Users/shyamramesh/Downloads/YoutubeVideo-master/C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\playerview_demo.xml",
+        "source": "/Users/shyamramesh/Downloads/YoutubeVideo-master/C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\src\\main\\res\\layout-land\\playerview_demo.xml"
+    }
+]

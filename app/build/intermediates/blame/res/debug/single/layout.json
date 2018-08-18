@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/Users/shyamramesh/Downloads/YoutubeVideo-master/C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\player_controls_demo.xml",
+        "source": "/Users/shyamramesh/Downloads/YoutubeVideo-master/C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\src\\main\\res\\layout\\player_controls_demo.xml"
+    },
+    {
+        "merged": "/Users/shyamramesh/Downloads/YoutubeVideo-master/C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\playerview_demo.xml",
+        "source": "/Users/shyamramesh/Downloads/YoutubeVideo-master/C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\src\\main\\res\\layout\\playerview_demo.xml"
+    },
+    {
+        "merged": "/Users/shyamramesh/Downloads/YoutubeVideo-master/C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\player_controls_container.xml",
+        "source": "/Users/shyamramesh/Downloads/YoutubeVideo-master/C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\src\\main\\res\\layout\\player_controls_container.xml"
+    },
+    {
+        "merged": "/Users/shyamramesh/Downloads/YoutubeVideo-master/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/Users/shyamramesh/Downloads/YoutubeVideo-master/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/Users/shyamramesh/Downloads/YoutubeVideo-master/C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_list_item.xml",
+        "source": "/Users/shyamramesh/Downloads/YoutubeVideo-master/C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\src\\main\\res\\layout\\video_list_item.xml"
+    },
+    {
+        "merged": "/Users/shyamramesh/Downloads/YoutubeVideo-master/app/build/intermediates/res/merged/debug/layout/player_controls_container.xml",
+        "source": "/Users/shyamramesh/Downloads/YoutubeVideo-master/app/src/main/res/layout/player_controls_container.xml"
+    },
+    {
+        "merged": "/Users/shyamramesh/Downloads/YoutubeVideo-master/app/build/intermediates/res/merged/debug/layout/intents_demo.xml",
+        "source": "/Users/shyamramesh/Downloads/YoutubeVideo-master/app/src/main/res/layout/intents_demo.xml"
+    },
+    {
+        "merged": "/Users/shyamramesh/Downloads/YoutubeVideo-master/app/build/intermediates/res/merged/debug/layout/player_controls_demo.xml",
+        "source": "/Users/shyamramesh/Downloads/YoutubeVideo-master/app/src/main/res/layout/player_controls_demo.xml"
+    },
+    {
+        "merged": "/Users/shyamramesh/Downloads/YoutubeVideo-master/app/build/intermediates/res/merged/debug/layout/video_list_demo.xml",
+        "source": "/Users/shyamramesh/Downloads/YoutubeVideo-master/app/src/main/res/layout/video_list_demo.xml"
+    },
+    {
+        "merged": "/Users/shyamramesh/Downloads/YoutubeVideo-master/C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragments_demo.xml",
+        "source": "/Users/shyamramesh/Downloads/YoutubeVideo-master/C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\src\\main\\res\\layout\\fragments_demo.xml"
+    },
+    {
+        "merged": "/Users/shyamramesh/Downloads/YoutubeVideo-master/app/build/intermediates/res/merged/debug/layout/demo_home.xml",
+        "source": "/Users/shyamramesh/Downloads/YoutubeVideo-master/app/src/main/res/layout/demo_home.xml"
+    },
+    {
+        "merged": "/Users/shyamramesh/Downloads/YoutubeVideo-master/C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\standalone_player_demo.xml",
+        "source": "/Users/shyamramesh/Downloads/YoutubeVideo-master/C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\src\\main\\res\\layout\\standalone_player_demo.xml"
+    },
+    {
+        "merged": "/Users/shyamramesh/Downloads/YoutubeVideo-master/C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\action_bar_demo.xml",
+        "source": "/Users/shyamramesh/Downloads/YoutubeVideo-master/C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\src\\main\\res\\layout\\action_bar_demo.xml"
+    },
+    {
+        "merged": "/Users/shyamramesh/Downloads/YoutubeVideo-master/C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "/Users/shyamramesh/Downloads/YoutubeVideo-master/C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "/Users/shyamramesh/Downloads/YoutubeVideo-master/app/build/intermediates/res/merged/debug/layout/video_list_item.xml",
+        "source": "/Users/shyamramesh/Downloads/YoutubeVideo-master/app/src/main/res/layout/video_list_item.xml"
+    },
+    {
+        "merged": "/Users/shyamramesh/Downloads/YoutubeVideo-master/app/build/intermediates/res/merged/debug/layout/playerview_demo.xml",
+        "source": "/Users/shyamramesh/Downloads/YoutubeVideo-master/app/src/main/res/layout/playerview_demo.xml"
+    },
+    {
+        "merged": "/Users/shyamramesh/Downloads/YoutubeVideo-master/app/build/intermediates/res/merged/debug/layout/action_bar_demo.xml",
+        "source": "/Users/shyamramesh/Downloads/YoutubeVideo-master/app/src/main/res/layout/action_bar_demo.xml"
+    },
+    {
+        "merged": "/Users/shyamramesh/Downloads/YoutubeVideo-master/C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fullscreen_demo.xml",
+        "source": "/Users/shyamramesh/Downloads/YoutubeVideo-master/C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\src\\main\\res\\layout\\fullscreen_demo.xml"
+    },
+    {
+        "merged": "/Users/shyamramesh/Downloads/YoutubeVideo-master/app/build/intermediates/res/merged/debug/layout/fragments_demo.xml",
+        "source": "/Users/shyamramesh/Downloads/YoutubeVideo-master/app/src/main/res/layout/fragments_demo.xml"
+    },
+    {
+        "merged": "/Users/shyamramesh/Downloads/YoutubeVideo-master/app/build/intermediates/res/merged/debug/layout/standalone_player_demo.xml",
+        "source": "/Users/shyamramesh/Downloads/YoutubeVideo-master/app/src/main/res/layout/standalone_player_demo.xml"
+    },
+    {
+        "merged": "/Users/shyamramesh/Downloads/YoutubeVideo-master/C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\demo_home.xml",
+        "source": "/Users/shyamramesh/Downloads/YoutubeVideo-master/C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\src\\main\\res\\layout\\demo_home.xml"
+    },
+    {
+        "merged": "/Users/shyamramesh/Downloads/YoutubeVideo-master/C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\intents_demo.xml",
+        "source": "/Users/shyamramesh/Downloads/YoutubeVideo-master/C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\src\\main\\res\\layout\\intents_demo.xml"
+    },
+    {
+        "merged": "/Users/shyamramesh/Downloads/YoutubeVideo-master/C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_list_demo.xml",
+        "source": "/Users/shyamramesh/Downloads/YoutubeVideo-master/C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\src\\main\\res\\layout\\video_list_demo.xml"
+    },
+    {
+        "merged": "/Users/shyamramesh/Downloads/YoutubeVideo-master/app/build/intermediates/res/merged/debug/layout/fullscreen_demo.xml",
+        "source": "/Users/shyamramesh/Downloads/YoutubeVideo-master/app/src/main/res/layout/fullscreen_demo.xml"
+    }
+]

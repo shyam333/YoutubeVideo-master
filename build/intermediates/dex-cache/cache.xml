@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/shyamramesh/Downloads/YoutubeVideo-master/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/Users/shyamramesh/Downloads/YoutubeVideo-master/app/build/intermediates/pre-dexed/debug/YouTubeAndroidPlayerApi_0265a55758d26216261e5b5f499b0d3d235197e0.jar" />
+    </item>
+
+</items>
